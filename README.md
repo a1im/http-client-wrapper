@@ -3,6 +3,8 @@
 [![NPM](https://img.shields.io/npm/v/http-client-wrapper.svg?style=flat-square)](https://www.npmjs.com/package/http-client-wrapper)
 [![Downloads](https://img.shields.io/npm/dm/http-client-wrapper?style=flat-square)](https://www.npmjs.com/package/http-client-wrapper)
 
+A single interface for queries, allows you to use your favorite library for queries
+
 ## Install
 ```
 yarn add http-client-wrapper
